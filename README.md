@@ -1,2 +1,6 @@
-# tutorials
-This repository contains a set of tutorials for reducing and manipulating IFS data using PyKOALA
+# pyKOALA Tutorials
+
+----
+
+Here's a list of tutorials for reducing data using pyKOALA.
+
