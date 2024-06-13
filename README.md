@@ -16,6 +16,7 @@ Welcome to the `pykoala-tutorials` repository! This repository is designed to pr
   - [Intermediate Tutorial 3: Producing scientific data](#intermediate-tutorial-3-producing-scientific-data)
   - [Advanced Tutorial 1: Sky substraction](#advanced-tutorial-1-sky-substraction)
   - [Advanced Tutorial 2: Data cube interpolation methods](#advanced-tutorial-2-data-cube-interpolation-methods)
+  - [Advanced Tutorial 3: Improving the astrometry with external data](#advanced-tutorial-3-improving-the-astrometry-with-external-data)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
@@ -72,6 +73,7 @@ Explore the basic steps for combining RSS data into a Data cube.
 
 ### Advanced Tutorial 2: Data cube interpolation methods
 
+### Advanced Tutorial 3: Improving the astrometry with external data
 
 
 ## Contributing
