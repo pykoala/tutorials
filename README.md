@@ -11,7 +11,7 @@ Welcome to the `pykoala-tutorials` repository! This repository is designed to pr
   - [What's included in PyKOALA](#whats-included-in-pykoala)
 - [Getting Started](#getting-started)
 - [Tutorials](#tutorials)
-  - [Getting Up to Speed](#getting-up-to-speed)
+  - [A beginner's guide to PyKOALA](#a-beginners-guide-to-pykoala)
   - [Advanced Tutorials](#advanced-tutorials)
 - [Contributing](#contributing)
 - [License](#license)
@@ -109,7 +109,7 @@ This repository contains a series of tutorials aimed at demonstrating how to eff
 
 To get started with the tutorials, you will need to have `pykoala` installed on your system. Detailed installation instructions can be found in the [documentation page](https://pykoala.readthedocs.io/en/latest/index.html), or in the Github [repository](https://github.com/pykoala/pykoala).
 
-### Cloning the Repository
+### Cloning the tutorials repository
 
 To clone this repository and get access to all the tutorials, use the following command:
 
