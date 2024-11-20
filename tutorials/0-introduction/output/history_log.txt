@@ -1,0 +1,4 @@
+Step 1: Loaded data
+Step 2: Filtered outliers
+Step 3: Normalized data
+Step 4: Additional data added with log_record method

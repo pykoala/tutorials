@@ -131,6 +131,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+venv_koala/
 
 # Spyder project settings
 .spyderproject
